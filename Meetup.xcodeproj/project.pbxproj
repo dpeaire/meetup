@@ -13,6 +13,7 @@
 		7EDADD711F3F5AEB003BCD4E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EDADD6F1F3F5AEB003BCD4E /* Main.storyboard */; };
 		7EDADD731F3F5AEB003BCD4E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EDADD721F3F5AEB003BCD4E /* Assets.xcassets */; };
 		7EDADD761F3F5AEB003BCD4E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EDADD741F3F5AEB003BCD4E /* LaunchScreen.storyboard */; };
+		7EDADD7E1F3F5CA5003BCD4E /* UserProfileTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EDADD7D1F3F5CA5003BCD4E /* UserProfileTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7EDADD721F3F5AEB003BCD4E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7EDADD751F3F5AEB003BCD4E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7EDADD771F3F5AEB003BCD4E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7EDADD7D1F3F5CA5003BCD4E /* UserProfileTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserProfileTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				7EDADD6B1F3F5AEB003BCD4E /* FirstViewController.swift */,
 				7EDADD6D1F3F5AEB003BCD4E /* SecondViewController.swift */,
 				7EDADD6F1F3F5AEB003BCD4E /* Main.storyboard */,
+				7EDADD7D1F3F5CA5003BCD4E /* UserProfileTableViewController.swift */,
 				7EDADD721F3F5AEB003BCD4E /* Assets.xcassets */,
 				7EDADD741F3F5AEB003BCD4E /* LaunchScreen.storyboard */,
 				7EDADD771F3F5AEB003BCD4E /* Info.plist */,
@@ -142,6 +145,7 @@
 			files = (
 				7EDADD6E1F3F5AEB003BCD4E /* SecondViewController.swift in Sources */,
 				7EDADD6A1F3F5AEB003BCD4E /* AppDelegate.swift in Sources */,
+				7EDADD7E1F3F5CA5003BCD4E /* UserProfileTableViewController.swift in Sources */,
 				7EDADD6C1F3F5AEB003BCD4E /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
